@@ -1,0 +1,21 @@
+Swagger Notes
+
+Pluralsite Course
+https://app.pluralsight.com/library/courses/play-by-play-api-functionality-swagger/table-of-contents
+
+ToDo:
+Download Swashbuckle NuGet Package.  
+Swashbuckle.AspNetCore
+
+On Github the project name is Ahoy.  
+
+Documentation
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.1&tabs=visual-studio%2Cvisual-studio-xml
+
+
+
+
+Example Swagger UI:
+https://localhost:44353/index.html
+
+https://localhost:44353/swagger/v1/swagger.json
